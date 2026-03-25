@@ -1,0 +1,4 @@
+Python, TypeScript, JavaScript, SQL
+FastAPI, Next.js, React, Tailwind CSS, Framer Motion
+LangChain, FAISS, HuggingFace, Groq API
+PostgreSQL, Redis, Docker, CI/CD, Vercel, Render
