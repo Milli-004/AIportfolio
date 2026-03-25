@@ -1,0 +1,12 @@
+Alex Morgan is a full-stack AI engineer focused on production LLM systems.
+
+Experience:
+- Built retrieval-augmented generation assistants for developer tooling.
+- Developed scalable APIs with FastAPI, Postgres, and Redis.
+- Designed polished React/Next.js interfaces with premium UX.
+
+Education:
+- B.S. in Computer Science
+
+Focus Areas:
+- LLM applications, RAG, vector databases, prompt engineering, and backend architecture.
