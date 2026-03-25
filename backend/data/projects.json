@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DevCopilot RAG",
+    "summary": "A contextual engineering assistant that answers questions from internal docs.",
+    "stack": ["FastAPI", "LangChain", "FAISS", "Groq"]
+  },
+  {
+    "name": "Portfolio OS",
+    "summary": "A premium portfolio site with interactive animations and AI chat.",
+    "stack": ["Next.js", "Tailwind", "Framer Motion", "ShadCN"]
+  },
+  {
+    "name": "Realtime Issue Triage",
+    "summary": "A support automation service that classifies and routes tickets in real time.",
+    "stack": ["Python", "Kafka", "PostgreSQL", "OpenTelemetry"]
+  }
+]
